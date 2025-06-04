@@ -27,8 +27,7 @@ dependencies:
   flutter_timezone: ^1.0.7
   speech_to_text: ^6.6.2
   flutter_tts: ^3.8.5
-  firebase_auth: ^4.2.9
-  firebase_core: ^2.7.0
+
 
 
 
